@@ -1,4 +1,4 @@
-# DSNDP1
+# Write A Data Science Blog Post
  
 Medium Blog Link: https://medium.com/@wigocej344/airbnb-seattle-7ab2b3e40d37
 
